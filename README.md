@@ -1,3 +1,16 @@
 # Evolutionary Neural Architecture Search for 2D and 3D Medical Image Classification
+[![Active Development](https://img.shields.io/badge/Maintenance%20Level-Actively%20Developed-brightgreen.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d) [![Actively Maintained](https://img.shields.io/badge/Maintenance%20Level-Actively%20Maintained-green.svg)](https://gist.github.com/cheerfulstoic/d107229326a01ff0f333a1d3476e068d) 
 
+## Overview 
+This repository contains the Python implementation of Evolutionary Framework for 2D and 3D Medical Image Classification
+The framework extended the DARTS search space for 2D and 3D Medical Image Classification and MealPy library for the implementation of metaheurstics.
+For more details, please refer to our paper [Evolutionary Neural Architecture Search for 2D and 3D Medical Image Classification](https://www.iccs-meeting.org/archive/iccs2024/papers/148330121.pdf) by Muhammad Junaid Ali, Laurent Moalic, Mokhtar Essaid and Lhassane Idoumghar. If you find this implementation helpful, please consider citing our work: ```BibTex @inproceedings{ali2024evolutionary,
+  title={Evolutionary Neural Architecture Search for 2D and 3D Medical Image Classification},
+  author={Ali, Muhammad Junaid and Moalic, Laurent and Essaid, Mokhtar and Idoumghar, Lhassane},
+  booktitle={International Conference on Computational Science},
+  pages={131--146},
+  year={2024},
+  organization={Springer}
+}
+ ``` ## Code Structure ``` search_space/ ├── nas_search_space.py --- Search space definition for the NAS process (OOE) └── eex_dvfs_search_space --- Search space definition for EEx_DVFS (IOE) search_algo/ ├── hadas_search.py --- OOE + IOE search algorithms (evolutionary-based) ├── utils_opt.py --- Selection functions for the optimization algorithms (based on non-dominated sorting and crowding distance) └── utils_eval.py --- utility functions to remotely run the evaluation and read/write results supernet/ ├── AttentiveNAS/ --- Contains the original scripts from AttentiveNAS for supernet specifications + our scripts to transform backbones to dynamic neural networks with multiple exits ├── utils/ --- Contains essential scripts to manage distributed training/evaluation over multiple GPUs ├── parellel_evaluation_exits.py --- Main script to train, evaluate multi-exits backbones in parallel └── parellel_evaluation_nas.py --- Main script to evaluate backbone accuracy in parallel ``` ## Requirements - Python version: tested in Python 3.8.10 - Install the software environment in the yaml file *environment.yml* ## Pretrained AttentiveNAS supernets on multiple datasets: | Subnet/weights | Cifar10 | Cifar-100 | Tiny-Imagenet | MFLOPs | |:---:|:---:|:---:|:---:|:---:| | Min_subnet_Acc | 97.99 | 86.28 | 76.73 | 201 | | Max_subnet_Acc | 98.58 | 88.43 | 80.54 | 1937 | | Link to Weights | [Link](https://drive.google.com/drive/folders/1IwvWd8oswS6YBGhu-32YHhXRKqFBnDaF?usp=sharing) | [Link](https://drive.google.com/drive/folders/1hcgG8Jcp_iiJR6ekjlNjdGm7ThEVw-bB?usp=sharing) | [Link](https://drive.google.com/drive/folders/1n3eeX7g8c-MUNWizda3LBZwC5qIN1aKb?usp=sharing) | - | ## Acknowledgements [Pymoo](https://github.com/anyoptimization/pymoo) [AttentiveNAS](https://github.com/facebookresearch/AttentiveNAS)
 Code Coming soon
