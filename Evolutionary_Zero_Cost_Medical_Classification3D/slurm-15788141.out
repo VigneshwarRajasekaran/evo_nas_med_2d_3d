@@ -1,0 +1,68 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch: 0 	Training Loss: 1.722760 	Validation Loss: 0.398595
+Validation loss decreased (inf --> 0.398595).  Saving model ...
+Epoch: 1 	Training Loss: 1.554834 	Validation Loss: 0.368183
+Validation loss decreased (0.398595 --> 0.368183).  Saving model ...
+Epoch: 2 	Training Loss: 1.478317 	Validation Loss: 0.355939
+Validation loss decreased (0.368183 --> 0.355939).  Saving model ...
+Epoch: 3 	Training Loss: 1.399637 	Validation Loss: 0.315408
+Validation loss decreased (0.355939 --> 0.315408).  Saving model ...
+Epoch: 4 	Training Loss: 1.312893 	Validation Loss: 0.290639
+Validation loss decreased (0.315408 --> 0.290639).  Saving model ...
+Epoch: 5 	Training Loss: 1.231216 	Validation Loss: 0.280978
+Validation loss decreased (0.290639 --> 0.280978).  Saving model ...
+Epoch: 6 	Training Loss: 1.180267 	Validation Loss: 0.260058
+Validation loss decreased (0.280978 --> 0.260058).  Saving model ...
+Epoch: 7 	Training Loss: 1.136861 	Validation Loss: 0.257338
+Validation loss decreased (0.260058 --> 0.257338).  Saving model ...
+Epoch: 8 	Training Loss: 1.104234 	Validation Loss: 0.238351
+Validation loss decreased (0.257338 --> 0.238351).  Saving model ...
+Epoch: 9 	Training Loss: 1.063672 	Validation Loss: 0.230753
+Validation loss decreased (0.238351 --> 0.230753).  Saving model ...
+Epoch: 10 	Training Loss: 1.039854 	Validation Loss: 0.225172
+Validation loss decreased (0.230753 --> 0.225172).  Saving model ...
+Epoch: 11 	Training Loss: 1.015756 	Validation Loss: 0.233101
+Epoch: 12 	Training Loss: 0.992590 	Validation Loss: 0.214135
+Validation loss decreased (0.225172 --> 0.214135).  Saving model ...
+Epoch: 13 	Training Loss: 0.962425 	Validation Loss: 0.207837
+Validation loss decreased (0.214135 --> 0.207837).  Saving model ...
+Epoch: 14 	Training Loss: 0.947019 	Validation Loss: 0.213366
+Epoch: 15 	Training Loss: 0.925837 	Validation Loss: 0.189410
+Validation loss decreased (0.207837 --> 0.189410).  Saving model ...
+Epoch: 16 	Training Loss: 0.904119 	Validation Loss: 0.193522
+Epoch: 17 	Training Loss: 0.888812 	Validation Loss: 0.189459
+Epoch: 18 	Training Loss: 0.872648 	Validation Loss: 0.180499
+Validation loss decreased (0.189410 --> 0.180499).  Saving model ...
+Epoch: 19 	Training Loss: 0.852555 	Validation Loss: 0.173667
+Validation loss decreased (0.180499 --> 0.173667).  Saving model ...
+Test Loss: 0.687499
+
+Test Accuracy of airplane: 85% (201/234)
+Test Accuracy of automobile: 84% (208/246)
+Test Accuracy of  bird: 54% (153/281)
+Test Accuracy of   cat: 49% (125/253)
+Test Accuracy of  deer: 85% (194/227)
+Test Accuracy of   dog: 61% (153/250)
+Test Accuracy of  frog: 87% (216/248)
+Test Accuracy of horse: 78% (195/250)
+Test Accuracy of  ship: 83% (216/258)
+Test Accuracy of truck: 92% (244/265)
+
+Test Accuracy (Overall): 75% (1905/2512)
+Traceback (most recent call last):
+  File "main.py", line 18, in <module>
+    ga.evolve()
+  File "/home2020/home/uha/mjali/NAS-FRAMEWORK/GA/ga.py", line 65, in evolve
+    json.dump(results_pop_fitness, json_file)
+  File "/usr/local/Anaconda/Anaconda3-2019.07/lib/python3.7/json/__init__.py", line 179, in dump
+    for chunk in iterable:
+  File "/usr/local/Anaconda/Anaconda3-2019.07/lib/python3.7/json/encoder.py", line 431, in _iterencode
+    yield from _iterencode_dict(o, _current_indent_level)
+  File "/usr/local/Anaconda/Anaconda3-2019.07/lib/python3.7/json/encoder.py", line 405, in _iterencode_dict
+    yield from chunks
+  File "/usr/local/Anaconda/Anaconda3-2019.07/lib/python3.7/json/encoder.py", line 438, in _iterencode
+    o = _default(o)
+  File "/usr/local/Anaconda/Anaconda3-2019.07/lib/python3.7/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type ndarray is not JSON serializable

@@ -1,0 +1,1082 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch: 0 	Training Loss: 1.497280 	Validation Loss: 0.327709
+Validation loss decreased (inf --> 0.327709).  Saving model ...
+Epoch: 1 	Training Loss: 1.265411 	Validation Loss: 0.273285
+Validation loss decreased (0.327709 --> 0.273285).  Saving model ...
+Epoch: 2 	Training Loss: 1.139683 	Validation Loss: 0.244655
+Validation loss decreased (0.273285 --> 0.244655).  Saving model ...
+Epoch: 3 	Training Loss: 1.044054 	Validation Loss: 0.221105
+Validation loss decreased (0.244655 --> 0.221105).  Saving model ...
+Epoch: 4 	Training Loss: 0.963952 	Validation Loss: 0.230903
+Epoch: 5 	Training Loss: 0.900221 	Validation Loss: 0.191390
+Validation loss decreased (0.221105 --> 0.191390).  Saving model ...
+Epoch: 6 	Training Loss: 0.845379 	Validation Loss: 0.171175
+Validation loss decreased (0.191390 --> 0.171175).  Saving model ...
+Epoch: 7 	Training Loss: 0.793837 	Validation Loss: 0.164111
+Validation loss decreased (0.171175 --> 0.164111).  Saving model ...
+Epoch: 8 	Training Loss: 0.751503 	Validation Loss: 0.158830
+Validation loss decreased (0.164111 --> 0.158830).  Saving model ...
+Epoch: 9 	Training Loss: 0.718246 	Validation Loss: 0.144621
+Validation loss decreased (0.158830 --> 0.144621).  Saving model ...
+Test Loss: 0.737181
+
+Test Accuracy of airplane: 79% (186/234)
+Test Accuracy of automobile: 86% (213/246)
+Test Accuracy of  bird: 69% (196/281)
+Test Accuracy of   cat: 50% (129/253)
+Test Accuracy of  deer: 67% (153/227)
+Test Accuracy of   dog: 52% (132/250)
+Test Accuracy of  frog: 76% (189/248)
+Test Accuracy of horse: 78% (196/250)
+Test Accuracy of  ship: 91% (237/258)
+Test Accuracy of truck: 79% (211/265)
+
+Test Accuracy (Overall): 73% (1842/2512)
+Epoch: 0 	Training Loss: 1.465614 	Validation Loss: 0.311709
+Validation loss decreased (inf --> 0.311709).  Saving model ...
+Epoch: 1 	Training Loss: 1.234840 	Validation Loss: 0.269472
+Validation loss decreased (0.311709 --> 0.269472).  Saving model ...
+Epoch: 2 	Training Loss: 1.099619 	Validation Loss: 0.230847
+Validation loss decreased (0.269472 --> 0.230847).  Saving model ...
+Epoch: 3 	Training Loss: 0.989903 	Validation Loss: 0.214270
+Validation loss decreased (0.230847 --> 0.214270).  Saving model ...
+Epoch: 4 	Training Loss: 0.905062 	Validation Loss: 0.188857
+Validation loss decreased (0.214270 --> 0.188857).  Saving model ...
+Epoch: 5 	Training Loss: 0.842803 	Validation Loss: 0.176160
+Validation loss decreased (0.188857 --> 0.176160).  Saving model ...
+Epoch: 6 	Training Loss: 0.789333 	Validation Loss: 0.180041
+Epoch: 7 	Training Loss: 0.745093 	Validation Loss: 0.169227
+Validation loss decreased (0.176160 --> 0.169227).  Saving model ...
+Epoch: 8 	Training Loss: 0.713158 	Validation Loss: 0.153488
+Validation loss decreased (0.169227 --> 0.153488).  Saving model ...
+Epoch: 9 	Training Loss: 0.675740 	Validation Loss: 0.143283
+Validation loss decreased (0.153488 --> 0.143283).  Saving model ...
+Test Loss: 0.734829
+
+Test Accuracy of airplane: 78% (184/234)
+Test Accuracy of automobile: 89% (221/246)
+Test Accuracy of  bird: 69% (196/281)
+Test Accuracy of   cat: 54% (137/253)
+Test Accuracy of  deer: 68% (155/227)
+Test Accuracy of   dog: 69% (174/250)
+Test Accuracy of  frog: 79% (198/248)
+Test Accuracy of horse: 70% (175/250)
+Test Accuracy of  ship: 89% (230/258)
+Test Accuracy of truck: 79% (211/265)
+
+Test Accuracy (Overall): 74% (1881/2512)
+Epoch: 0 	Training Loss: 1.503467 	Validation Loss: 0.308984
+Validation loss decreased (inf --> 0.308984).  Saving model ...
+Epoch: 1 	Training Loss: 1.300072 	Validation Loss: 0.291103
+Validation loss decreased (0.308984 --> 0.291103).  Saving model ...
+Epoch: 2 	Training Loss: 1.208702 	Validation Loss: 0.265353
+Validation loss decreased (0.291103 --> 0.265353).  Saving model ...
+Epoch: 3 	Training Loss: 1.126616 	Validation Loss: 0.246504
+Validation loss decreased (0.265353 --> 0.246504).  Saving model ...
+Epoch: 4 	Training Loss: 1.042976 	Validation Loss: 0.234288
+Validation loss decreased (0.246504 --> 0.234288).  Saving model ...
+Epoch: 5 	Training Loss: 0.981237 	Validation Loss: 0.211804
+Validation loss decreased (0.234288 --> 0.211804).  Saving model ...
+Epoch: 6 	Training Loss: 0.925150 	Validation Loss: 0.206929
+Validation loss decreased (0.211804 --> 0.206929).  Saving model ...
+Epoch: 7 	Training Loss: 0.883904 	Validation Loss: 0.182833
+Validation loss decreased (0.206929 --> 0.182833).  Saving model ...
+Epoch: 8 	Training Loss: 0.848082 	Validation Loss: 0.168255
+Validation loss decreased (0.182833 --> 0.168255).  Saving model ...
+Epoch: 9 	Training Loss: 0.816154 	Validation Loss: 0.163541
+Validation loss decreased (0.168255 --> 0.163541).  Saving model ...
+Test Loss: 0.834259
+
+Test Accuracy of airplane: 72% (169/234)
+Test Accuracy of automobile: 89% (221/246)
+Test Accuracy of  bird: 64% (182/281)
+Test Accuracy of   cat: 52% (133/253)
+Test Accuracy of  deer: 66% (152/227)
+Test Accuracy of   dog: 44% (112/250)
+Test Accuracy of  frog: 76% (190/248)
+Test Accuracy of horse: 66% (166/250)
+Test Accuracy of  ship: 87% (225/258)
+Test Accuracy of truck: 71% (190/265)
+
+Test Accuracy (Overall): 69% (1740/2512)
+Epoch: 0 	Training Loss: 1.493341 	Validation Loss: 0.301520
+Validation loss decreased (inf --> 0.301520).  Saving model ...
+Epoch: 1 	Training Loss: 1.249054 	Validation Loss: 0.272628
+Validation loss decreased (0.301520 --> 0.272628).  Saving model ...
+Epoch: 2 	Training Loss: 1.128738 	Validation Loss: 0.243139
+Validation loss decreased (0.272628 --> 0.243139).  Saving model ...
+Epoch: 3 	Training Loss: 1.025321 	Validation Loss: 0.216020
+Validation loss decreased (0.243139 --> 0.216020).  Saving model ...
+Epoch: 4 	Training Loss: 0.949642 	Validation Loss: 0.207919
+Validation loss decreased (0.216020 --> 0.207919).  Saving model ...
+Epoch: 5 	Training Loss: 0.887106 	Validation Loss: 0.184528
+Validation loss decreased (0.207919 --> 0.184528).  Saving model ...
+Epoch: 6 	Training Loss: 0.843079 	Validation Loss: 0.176801
+Validation loss decreased (0.184528 --> 0.176801).  Saving model ...
+Epoch: 7 	Training Loss: 0.800710 	Validation Loss: 0.170364
+Validation loss decreased (0.176801 --> 0.170364).  Saving model ...
+Epoch: 8 	Training Loss: 0.762248 	Validation Loss: 0.160875
+Validation loss decreased (0.170364 --> 0.160875).  Saving model ...
+Epoch: 9 	Training Loss: 0.735903 	Validation Loss: 0.171466
+Test Loss: 0.862009
+
+Test Accuracy of airplane: 77% (182/234)
+Test Accuracy of automobile: 83% (205/246)
+Test Accuracy of  bird: 74% (208/281)
+Test Accuracy of   cat: 27% (70/253)
+Test Accuracy of  deer: 70% (159/227)
+Test Accuracy of   dog: 51% (129/250)
+Test Accuracy of  frog: 86% (215/248)
+Test Accuracy of horse: 70% (176/250)
+Test Accuracy of  ship: 87% (225/258)
+Test Accuracy of truck: 75% (201/265)
+
+Test Accuracy (Overall): 70% (1770/2512)
+Epoch: 0 	Training Loss: 1.491356 	Validation Loss: 0.315827
+Validation loss decreased (inf --> 0.315827).  Saving model ...
+Epoch: 1 	Training Loss: 1.238002 	Validation Loss: 0.279825
+Validation loss decreased (0.315827 --> 0.279825).  Saving model ...
+Epoch: 2 	Training Loss: 1.103485 	Validation Loss: 0.253325
+Validation loss decreased (0.279825 --> 0.253325).  Saving model ...
+Epoch: 3 	Training Loss: 0.989743 	Validation Loss: 0.211589
+Validation loss decreased (0.253325 --> 0.211589).  Saving model ...
+Epoch: 4 	Training Loss: 0.907829 	Validation Loss: 0.187278
+Validation loss decreased (0.211589 --> 0.187278).  Saving model ...
+Epoch: 5 	Training Loss: 0.841399 	Validation Loss: 0.173216
+Validation loss decreased (0.187278 --> 0.173216).  Saving model ...
+Epoch: 6 	Training Loss: 0.789430 	Validation Loss: 0.166509
+Validation loss decreased (0.173216 --> 0.166509).  Saving model ...
+Epoch: 7 	Training Loss: 0.752128 	Validation Loss: 0.159413
+Validation loss decreased (0.166509 --> 0.159413).  Saving model ...
+Epoch: 8 	Training Loss: 0.716388 	Validation Loss: 0.148864
+Validation loss decreased (0.159413 --> 0.148864).  Saving model ...
+Epoch: 9 	Training Loss: 0.686666 	Validation Loss: 0.151349
+Test Loss: 0.773623
+
+Test Accuracy of airplane: 76% (179/234)
+Test Accuracy of automobile: 91% (226/246)
+Test Accuracy of  bird: 59% (167/281)
+Test Accuracy of   cat: 59% (151/253)
+Test Accuracy of  deer: 60% (137/227)
+Test Accuracy of   dog: 67% (168/250)
+Test Accuracy of  frog: 84% (209/248)
+Test Accuracy of horse: 75% (189/250)
+Test Accuracy of  ship: 80% (207/258)
+Test Accuracy of truck: 79% (211/265)
+
+Test Accuracy (Overall): 73% (1844/2512)
+Epoch: 0 	Training Loss: 1.451362 	Validation Loss: 0.291245
+Validation loss decreased (inf --> 0.291245).  Saving model ...
+Epoch: 1 	Training Loss: 1.196163 	Validation Loss: 0.259740
+Validation loss decreased (0.291245 --> 0.259740).  Saving model ...
+Epoch: 2 	Training Loss: 1.065777 	Validation Loss: 0.222888
+Validation loss decreased (0.259740 --> 0.222888).  Saving model ...
+Epoch: 3 	Training Loss: 0.964039 	Validation Loss: 0.212397
+Validation loss decreased (0.222888 --> 0.212397).  Saving model ...
+Epoch: 4 	Training Loss: 0.877598 	Validation Loss: 0.183538
+Validation loss decreased (0.212397 --> 0.183538).  Saving model ...
+Epoch: 5 	Training Loss: 0.812680 	Validation Loss: 0.164576
+Validation loss decreased (0.183538 --> 0.164576).  Saving model ...
+Epoch: 6 	Training Loss: 0.759572 	Validation Loss: 0.153659
+Validation loss decreased (0.164576 --> 0.153659).  Saving model ...
+Epoch: 7 	Training Loss: 0.708735 	Validation Loss: 0.143794
+Validation loss decreased (0.153659 --> 0.143794).  Saving model ...
+Epoch: 8 	Training Loss: 0.672124 	Validation Loss: 0.139924
+Validation loss decreased (0.143794 --> 0.139924).  Saving model ...
+Epoch: 9 	Training Loss: 0.639680 	Validation Loss: 0.132944
+Validation loss decreased (0.139924 --> 0.132944).  Saving model ...
+Test Loss: 0.672102
+
+Test Accuracy of airplane: 81% (190/234)
+Test Accuracy of automobile: 95% (236/246)
+Test Accuracy of  bird: 64% (182/281)
+Test Accuracy of   cat: 51% (131/253)
+Test Accuracy of  deer: 73% (166/227)
+Test Accuracy of   dog: 73% (183/250)
+Test Accuracy of  frog: 85% (211/248)
+Test Accuracy of horse: 78% (196/250)
+Test Accuracy of  ship: 85% (220/258)
+Test Accuracy of truck: 77% (206/265)
+
+Test Accuracy (Overall): 76% (1921/2512)
+Epoch: 0 	Training Loss: 1.511743 	Validation Loss: 0.309003
+Validation loss decreased (inf --> 0.309003).  Saving model ...
+Epoch: 1 	Training Loss: 1.261365 	Validation Loss: 0.264884
+Validation loss decreased (0.309003 --> 0.264884).  Saving model ...
+Epoch: 2 	Training Loss: 1.140549 	Validation Loss: 0.265287
+Epoch: 3 	Training Loss: 1.043982 	Validation Loss: 0.220829
+Validation loss decreased (0.264884 --> 0.220829).  Saving model ...
+Epoch: 4 	Training Loss: 0.971657 	Validation Loss: 0.210053
+Validation loss decreased (0.220829 --> 0.210053).  Saving model ...
+Epoch: 5 	Training Loss: 0.909937 	Validation Loss: 0.188570
+Validation loss decreased (0.210053 --> 0.188570).  Saving model ...
+Epoch: 6 	Training Loss: 0.866203 	Validation Loss: 0.183829
+Validation loss decreased (0.188570 --> 0.183829).  Saving model ...
+Epoch: 7 	Training Loss: 0.825298 	Validation Loss: 0.176572
+Validation loss decreased (0.183829 --> 0.176572).  Saving model ...
+Epoch: 8 	Training Loss: 0.789817 	Validation Loss: 0.161089
+Validation loss decreased (0.176572 --> 0.161089).  Saving model ...
+Epoch: 9 	Training Loss: 0.760086 	Validation Loss: 0.162486
+Test Loss: 0.821478
+
+Test Accuracy of airplane: 71% (168/234)
+Test Accuracy of automobile: 89% (220/246)
+Test Accuracy of  bird: 55% (157/281)
+Test Accuracy of   cat: 46% (117/253)
+Test Accuracy of  deer: 61% (140/227)
+Test Accuracy of   dog: 68% (172/250)
+Test Accuracy of  frog: 83% (208/248)
+Test Accuracy of horse: 71% (178/250)
+Test Accuracy of  ship: 86% (223/258)
+Test Accuracy of truck: 72% (193/265)
+
+Test Accuracy (Overall): 70% (1776/2512)
+Epoch: 0 	Training Loss: 1.455795 	Validation Loss: 0.303533
+Validation loss decreased (inf --> 0.303533).  Saving model ...
+Epoch: 1 	Training Loss: 1.214647 	Validation Loss: 0.243734
+Validation loss decreased (0.303533 --> 0.243734).  Saving model ...
+Epoch: 2 	Training Loss: 1.076134 	Validation Loss: 0.230170
+Validation loss decreased (0.243734 --> 0.230170).  Saving model ...
+Epoch: 3 	Training Loss: 0.980464 	Validation Loss: 0.201669
+Validation loss decreased (0.230170 --> 0.201669).  Saving model ...
+Epoch: 4 	Training Loss: 0.909383 	Validation Loss: 0.191875
+Validation loss decreased (0.201669 --> 0.191875).  Saving model ...
+Epoch: 5 	Training Loss: 0.857734 	Validation Loss: 0.179461
+Validation loss decreased (0.191875 --> 0.179461).  Saving model ...
+Epoch: 6 	Training Loss: 0.810795 	Validation Loss: 0.168862
+Validation loss decreased (0.179461 --> 0.168862).  Saving model ...
+Epoch: 7 	Training Loss: 0.775540 	Validation Loss: 0.171636
+Epoch: 8 	Training Loss: 0.737342 	Validation Loss: 0.150513
+Validation loss decreased (0.168862 --> 0.150513).  Saving model ...
+Epoch: 9 	Training Loss: 0.708967 	Validation Loss: 0.147059
+Validation loss decreased (0.150513 --> 0.147059).  Saving model ...
+Test Loss: 0.741217
+
+Test Accuracy of airplane: 70% (166/234)
+Test Accuracy of automobile: 89% (219/246)
+Test Accuracy of  bird: 58% (163/281)
+Test Accuracy of   cat: 53% (135/253)
+Test Accuracy of  deer: 72% (165/227)
+Test Accuracy of   dog: 66% (167/250)
+Test Accuracy of  frog: 85% (213/248)
+Test Accuracy of horse: 84% (210/250)
+Test Accuracy of  ship: 87% (226/258)
+Test Accuracy of truck: 76% (204/265)
+
+Test Accuracy (Overall): 74% (1868/2512)
+Epoch: 0 	Training Loss: 1.568147 	Validation Loss: 0.323707
+Validation loss decreased (inf --> 0.323707).  Saving model ...
+Epoch: 1 	Training Loss: 1.347693 	Validation Loss: 0.295469
+Validation loss decreased (0.323707 --> 0.295469).  Saving model ...
+Epoch: 2 	Training Loss: 1.258645 	Validation Loss: 0.270085
+Validation loss decreased (0.295469 --> 0.270085).  Saving model ...
+Epoch: 3 	Training Loss: 1.189577 	Validation Loss: 0.253098
+Validation loss decreased (0.270085 --> 0.253098).  Saving model ...
+Epoch: 4 	Training Loss: 1.127259 	Validation Loss: 0.231937
+Validation loss decreased (0.253098 --> 0.231937).  Saving model ...
+Epoch: 5 	Training Loss: 1.070576 	Validation Loss: 0.226790
+Validation loss decreased (0.231937 --> 0.226790).  Saving model ...
+Epoch: 6 	Training Loss: 1.024717 	Validation Loss: 0.207332
+Validation loss decreased (0.226790 --> 0.207332).  Saving model ...
+Epoch: 7 	Training Loss: 0.976785 	Validation Loss: 0.206239
+Validation loss decreased (0.207332 --> 0.206239).  Saving model ...
+Epoch: 8 	Training Loss: 0.937904 	Validation Loss: 0.187081
+Validation loss decreased (0.206239 --> 0.187081).  Saving model ...
+Epoch: 9 	Training Loss: 0.902815 	Validation Loss: 0.175598
+Validation loss decreased (0.187081 --> 0.175598).  Saving model ...
+Test Loss: 0.884104
+
+Test Accuracy of airplane: 77% (182/234)
+Test Accuracy of automobile: 88% (217/246)
+Test Accuracy of  bird: 52% (148/281)
+Test Accuracy of   cat: 38% (97/253)
+Test Accuracy of  deer: 47% (107/227)
+Test Accuracy of   dog: 59% (149/250)
+Test Accuracy of  frog: 84% (210/248)
+Test Accuracy of horse: 70% (175/250)
+Test Accuracy of  ship: 81% (210/258)
+Test Accuracy of truck: 78% (207/265)
+
+Test Accuracy (Overall): 67% (1702/2512)
+Epoch: 0 	Training Loss: 1.524595 	Validation Loss: 0.340451
+Validation loss decreased (inf --> 0.340451).  Saving model ...
+Epoch: 1 	Training Loss: 1.285766 	Validation Loss: 0.274052
+Validation loss decreased (0.340451 --> 0.274052).  Saving model ...
+Epoch: 2 	Training Loss: 1.164249 	Validation Loss: 0.254064
+Validation loss decreased (0.274052 --> 0.254064).  Saving model ...
+Epoch: 3 	Training Loss: 1.072913 	Validation Loss: 0.228811
+Validation loss decreased (0.254064 --> 0.228811).  Saving model ...
+Epoch: 4 	Training Loss: 0.989420 	Validation Loss: 0.224316
+Validation loss decreased (0.228811 --> 0.224316).  Saving model ...
+Epoch: 5 	Training Loss: 0.927132 	Validation Loss: 0.186644
+Validation loss decreased (0.224316 --> 0.186644).  Saving model ...
+Epoch: 6 	Training Loss: 0.875784 	Validation Loss: 0.199200
+Epoch: 7 	Training Loss: 0.836502 	Validation Loss: 0.173518
+Validation loss decreased (0.186644 --> 0.173518).  Saving model ...
+Epoch: 8 	Training Loss: 0.807407 	Validation Loss: 0.168215
+Validation loss decreased (0.173518 --> 0.168215).  Saving model ...
+Epoch: 9 	Training Loss: 0.769486 	Validation Loss: 0.170150
+Test Loss: 0.869358
+
+Test Accuracy of airplane: 61% (144/234)
+Test Accuracy of automobile: 91% (225/246)
+Test Accuracy of  bird: 51% (144/281)
+Test Accuracy of   cat: 54% (137/253)
+Test Accuracy of  deer: 67% (153/227)
+Test Accuracy of   dog: 48% (122/250)
+Test Accuracy of  frog: 68% (169/248)
+Test Accuracy of horse: 72% (181/250)
+Test Accuracy of  ship: 93% (241/258)
+Test Accuracy of truck: 78% (209/265)
+
+Test Accuracy (Overall): 68% (1725/2512)
+Epoch: 0 	Training Loss: 1.632813 	Validation Loss: 0.376583
+Validation loss decreased (inf --> 0.376583).  Saving model ...
+Epoch: 1 	Training Loss: 1.396024 	Validation Loss: 0.307131
+Validation loss decreased (0.376583 --> 0.307131).  Saving model ...
+Epoch: 2 	Training Loss: 1.275975 	Validation Loss: 0.276238
+Validation loss decreased (0.307131 --> 0.276238).  Saving model ...
+Epoch: 3 	Training Loss: 1.193002 	Validation Loss: 0.252424
+Validation loss decreased (0.276238 --> 0.252424).  Saving model ...
+Epoch: 4 	Training Loss: 1.117376 	Validation Loss: 0.238725
+Validation loss decreased (0.252424 --> 0.238725).  Saving model ...
+Epoch: 5 	Training Loss: 1.051752 	Validation Loss: 0.217809
+Validation loss decreased (0.238725 --> 0.217809).  Saving model ...
+Epoch: 6 	Training Loss: 1.001719 	Validation Loss: 0.210122
+Validation loss decreased (0.217809 --> 0.210122).  Saving model ...
+Epoch: 7 	Training Loss: 0.946547 	Validation Loss: 0.199135
+Validation loss decreased (0.210122 --> 0.199135).  Saving model ...
+Epoch: 8 	Training Loss: 0.907303 	Validation Loss: 0.184409
+Validation loss decreased (0.199135 --> 0.184409).  Saving model ...
+Epoch: 9 	Training Loss: 0.869464 	Validation Loss: 0.183560
+Validation loss decreased (0.184409 --> 0.183560).  Saving model ...
+Test Loss: 0.932285
+
+Test Accuracy of airplane: 71% (168/234)
+Test Accuracy of automobile: 83% (205/246)
+Test Accuracy of  bird: 40% (114/281)
+Test Accuracy of   cat: 42% (107/253)
+Test Accuracy of  deer: 56% (128/227)
+Test Accuracy of   dog: 62% (155/250)
+Test Accuracy of  frog: 87% (218/248)
+Test Accuracy of horse: 68% (171/250)
+Test Accuracy of  ship: 71% (185/258)
+Test Accuracy of truck: 86% (229/265)
+
+Test Accuracy (Overall): 66% (1680/2512)
+Epoch: 0 	Training Loss: 1.514926 	Validation Loss: 0.303683
+Validation loss decreased (inf --> 0.303683).  Saving model ...
+Epoch: 1 	Training Loss: 1.273735 	Validation Loss: 0.273921
+Validation loss decreased (0.303683 --> 0.273921).  Saving model ...
+Epoch: 2 	Training Loss: 1.157616 	Validation Loss: 0.267879
+Validation loss decreased (0.273921 --> 0.267879).  Saving model ...
+Epoch: 3 	Training Loss: 1.077679 	Validation Loss: 0.223875
+Validation loss decreased (0.267879 --> 0.223875).  Saving model ...
+Epoch: 4 	Training Loss: 1.005637 	Validation Loss: 0.224305
+Epoch: 5 	Training Loss: 0.944678 	Validation Loss: 0.196539
+Validation loss decreased (0.223875 --> 0.196539).  Saving model ...
+Epoch: 6 	Training Loss: 0.893218 	Validation Loss: 0.186322
+Validation loss decreased (0.196539 --> 0.186322).  Saving model ...
+Epoch: 7 	Training Loss: 0.848276 	Validation Loss: 0.174811
+Validation loss decreased (0.186322 --> 0.174811).  Saving model ...
+Epoch: 8 	Training Loss: 0.807729 	Validation Loss: 0.169115
+Validation loss decreased (0.174811 --> 0.169115).  Saving model ...
+Epoch: 9 	Training Loss: 0.782551 	Validation Loss: 0.156664
+Validation loss decreased (0.169115 --> 0.156664).  Saving model ...
+Test Loss: 0.805441
+
+Test Accuracy of airplane: 75% (177/234)
+Test Accuracy of automobile: 93% (230/246)
+Test Accuracy of  bird: 65% (183/281)
+Test Accuracy of   cat: 44% (113/253)
+Test Accuracy of  deer: 60% (137/227)
+Test Accuracy of   dog: 51% (128/250)
+Test Accuracy of  frog: 79% (196/248)
+Test Accuracy of horse: 76% (191/250)
+Test Accuracy of  ship: 81% (210/258)
+Test Accuracy of truck: 81% (216/265)
+
+Test Accuracy (Overall): 70% (1781/2512)
+Epoch: 0 	Training Loss: 1.507679 	Validation Loss: 0.320994
+Validation loss decreased (inf --> 0.320994).  Saving model ...
+Epoch: 1 	Training Loss: 1.259241 	Validation Loss: 0.292275
+Validation loss decreased (0.320994 --> 0.292275).  Saving model ...
+Epoch: 2 	Training Loss: 1.149789 	Validation Loss: 0.251802
+Validation loss decreased (0.292275 --> 0.251802).  Saving model ...
+Epoch: 3 	Training Loss: 1.048462 	Validation Loss: 0.222553
+Validation loss decreased (0.251802 --> 0.222553).  Saving model ...
+Epoch: 4 	Training Loss: 0.973984 	Validation Loss: 0.207502
+Validation loss decreased (0.222553 --> 0.207502).  Saving model ...
+Epoch: 5 	Training Loss: 0.905512 	Validation Loss: 0.198289
+Validation loss decreased (0.207502 --> 0.198289).  Saving model ...
+Epoch: 6 	Training Loss: 0.847345 	Validation Loss: 0.184414
+Validation loss decreased (0.198289 --> 0.184414).  Saving model ...
+Epoch: 7 	Training Loss: 0.811010 	Validation Loss: 0.176150
+Validation loss decreased (0.184414 --> 0.176150).  Saving model ...
+Epoch: 8 	Training Loss: 0.771593 	Validation Loss: 0.174153
+Validation loss decreased (0.176150 --> 0.174153).  Saving model ...
+Epoch: 9 	Training Loss: 0.737581 	Validation Loss: 0.155317
+Validation loss decreased (0.174153 --> 0.155317).  Saving model ...
+Test Loss: 0.800820
+
+Test Accuracy of airplane: 74% (175/234)
+Test Accuracy of automobile: 89% (219/246)
+Test Accuracy of  bird: 49% (140/281)
+Test Accuracy of   cat: 62% (159/253)
+Test Accuracy of  deer: 73% (167/227)
+Test Accuracy of   dog: 44% (111/250)
+Test Accuracy of  frog: 84% (210/248)
+Test Accuracy of horse: 72% (180/250)
+Test Accuracy of  ship: 89% (232/258)
+Test Accuracy of truck: 84% (224/265)
+
+Test Accuracy (Overall): 72% (1817/2512)
+Epoch: 0 	Training Loss: 1.567402 	Validation Loss: 0.341912
+Validation loss decreased (inf --> 0.341912).  Saving model ...
+Epoch: 1 	Training Loss: 1.331707 	Validation Loss: 0.293212
+Validation loss decreased (0.341912 --> 0.293212).  Saving model ...
+Epoch: 2 	Training Loss: 1.231397 	Validation Loss: 0.272405
+Validation loss decreased (0.293212 --> 0.272405).  Saving model ...
+Epoch: 3 	Training Loss: 1.142686 	Validation Loss: 0.238268
+Validation loss decreased (0.272405 --> 0.238268).  Saving model ...
+Epoch: 4 	Training Loss: 1.083850 	Validation Loss: 0.227486
+Validation loss decreased (0.238268 --> 0.227486).  Saving model ...
+Epoch: 5 	Training Loss: 1.025303 	Validation Loss: 0.208617
+Validation loss decreased (0.227486 --> 0.208617).  Saving model ...
+Epoch: 6 	Training Loss: 0.983672 	Validation Loss: 0.199691
+Validation loss decreased (0.208617 --> 0.199691).  Saving model ...
+Epoch: 7 	Training Loss: 0.936780 	Validation Loss: 0.196981
+Validation loss decreased (0.199691 --> 0.196981).  Saving model ...
+Epoch: 8 	Training Loss: 0.907415 	Validation Loss: 0.191012
+Validation loss decreased (0.196981 --> 0.191012).  Saving model ...
+Epoch: 9 	Training Loss: 0.880660 	Validation Loss: 0.178846
+Validation loss decreased (0.191012 --> 0.178846).  Saving model ...
+Test Loss: 0.909385
+
+Test Accuracy of airplane: 70% (166/234)
+Test Accuracy of automobile: 89% (220/246)
+Test Accuracy of  bird: 41% (118/281)
+Test Accuracy of   cat: 42% (107/253)
+Test Accuracy of  deer: 47% (108/227)
+Test Accuracy of   dog: 52% (131/250)
+Test Accuracy of  frog: 81% (201/248)
+Test Accuracy of horse: 72% (182/250)
+Test Accuracy of  ship: 91% (237/258)
+Test Accuracy of truck: 77% (206/265)
+
+Test Accuracy (Overall): 66% (1676/2512)
+Epoch: 0 	Training Loss: 1.467259 	Validation Loss: 0.308463
+Validation loss decreased (inf --> 0.308463).  Saving model ...
+Epoch: 1 	Training Loss: 1.255584 	Validation Loss: 0.275644
+Validation loss decreased (0.308463 --> 0.275644).  Saving model ...
+Epoch: 2 	Training Loss: 1.151066 	Validation Loss: 0.248287
+Validation loss decreased (0.275644 --> 0.248287).  Saving model ...
+Epoch: 3 	Training Loss: 1.049992 	Validation Loss: 0.221260
+Validation loss decreased (0.248287 --> 0.221260).  Saving model ...
+Epoch: 4 	Training Loss: 0.977177 	Validation Loss: 0.201338
+Validation loss decreased (0.221260 --> 0.201338).  Saving model ...
+Epoch: 5 	Training Loss: 0.922961 	Validation Loss: 0.189467
+Validation loss decreased (0.201338 --> 0.189467).  Saving model ...
+Epoch: 6 	Training Loss: 0.871875 	Validation Loss: 0.183990
+Validation loss decreased (0.189467 --> 0.183990).  Saving model ...
+Epoch: 7 	Training Loss: 0.830814 	Validation Loss: 0.179591
+Validation loss decreased (0.183990 --> 0.179591).  Saving model ...
+Epoch: 8 	Training Loss: 0.802493 	Validation Loss: 0.170777
+Validation loss decreased (0.179591 --> 0.170777).  Saving model ...
+Epoch: 9 	Training Loss: 0.770187 	Validation Loss: 0.168936
+Validation loss decreased (0.170777 --> 0.168936).  Saving model ...
+Test Loss: 0.863674
+
+Test Accuracy of airplane: 71% (168/234)
+Test Accuracy of automobile: 94% (233/246)
+Test Accuracy of  bird: 45% (128/281)
+Test Accuracy of   cat: 33% (85/253)
+Test Accuracy of  deer: 69% (157/227)
+Test Accuracy of   dog: 70% (176/250)
+Test Accuracy of  frog: 67% (168/248)
+Test Accuracy of horse: 80% (200/250)
+Test Accuracy of  ship: 81% (211/258)
+Test Accuracy of truck: 81% (215/265)
+
+Test Accuracy (Overall): 69% (1741/2512)
+Epoch: 0 	Training Loss: 1.488666 	Validation Loss: 0.300802
+Validation loss decreased (inf --> 0.300802).  Saving model ...
+Epoch: 1 	Training Loss: 1.247824 	Validation Loss: 0.273974
+Validation loss decreased (0.300802 --> 0.273974).  Saving model ...
+Epoch: 2 	Training Loss: 1.130628 	Validation Loss: 0.247762
+Validation loss decreased (0.273974 --> 0.247762).  Saving model ...
+Epoch: 3 	Training Loss: 1.050737 	Validation Loss: 0.224626
+Validation loss decreased (0.247762 --> 0.224626).  Saving model ...
+Epoch: 4 	Training Loss: 0.985378 	Validation Loss: 0.207928
+Validation loss decreased (0.224626 --> 0.207928).  Saving model ...
+Epoch: 5 	Training Loss: 0.935771 	Validation Loss: 0.196443
+Validation loss decreased (0.207928 --> 0.196443).  Saving model ...
+Epoch: 6 	Training Loss: 0.886250 	Validation Loss: 0.178913
+Validation loss decreased (0.196443 --> 0.178913).  Saving model ...
+Epoch: 7 	Training Loss: 0.855512 	Validation Loss: 0.173744
+Validation loss decreased (0.178913 --> 0.173744).  Saving model ...
+Epoch: 8 	Training Loss: 0.814657 	Validation Loss: 0.165715
+Validation loss decreased (0.173744 --> 0.165715).  Saving model ...
+Epoch: 9 	Training Loss: 0.786584 	Validation Loss: 0.163300
+Validation loss decreased (0.165715 --> 0.163300).  Saving model ...
+Test Loss: 0.840745
+
+Test Accuracy of airplane: 67% (157/234)
+Test Accuracy of automobile: 89% (220/246)
+Test Accuracy of  bird: 49% (138/281)
+Test Accuracy of   cat: 43% (110/253)
+Test Accuracy of  deer: 67% (154/227)
+Test Accuracy of   dog: 59% (148/250)
+Test Accuracy of  frog: 78% (194/248)
+Test Accuracy of horse: 73% (183/250)
+Test Accuracy of  ship: 87% (225/258)
+Test Accuracy of truck: 83% (220/265)
+
+Test Accuracy (Overall): 69% (1749/2512)
+Epoch: 0 	Training Loss: 1.453337 	Validation Loss: 0.338515
+Validation loss decreased (inf --> 0.338515).  Saving model ...
+Epoch: 1 	Training Loss: 1.205263 	Validation Loss: 0.261410
+Validation loss decreased (0.338515 --> 0.261410).  Saving model ...
+Epoch: 2 	Training Loss: 1.059948 	Validation Loss: 0.238782
+Validation loss decreased (0.261410 --> 0.238782).  Saving model ...
+Epoch: 3 	Training Loss: 0.942284 	Validation Loss: 0.200626
+Validation loss decreased (0.238782 --> 0.200626).  Saving model ...
+Epoch: 4 	Training Loss: 0.858330 	Validation Loss: 0.177277
+Validation loss decreased (0.200626 --> 0.177277).  Saving model ...
+Epoch: 5 	Training Loss: 0.801190 	Validation Loss: 0.179455
+Epoch: 6 	Training Loss: 0.757628 	Validation Loss: 0.165956
+Validation loss decreased (0.177277 --> 0.165956).  Saving model ...
+Epoch: 7 	Training Loss: 0.717668 	Validation Loss: 0.151908
+Validation loss decreased (0.165956 --> 0.151908).  Saving model ...
+Epoch: 8 	Training Loss: 0.685195 	Validation Loss: 0.143457
+Validation loss decreased (0.151908 --> 0.143457).  Saving model ...
+Epoch: 9 	Training Loss: 0.655658 	Validation Loss: 0.139706
+Validation loss decreased (0.143457 --> 0.139706).  Saving model ...
+Test Loss: 0.713685
+
+Test Accuracy of airplane: 77% (181/234)
+Test Accuracy of automobile: 95% (236/246)
+Test Accuracy of  bird: 56% (158/281)
+Test Accuracy of   cat: 56% (142/253)
+Test Accuracy of  deer: 66% (152/227)
+Test Accuracy of   dog: 66% (166/250)
+Test Accuracy of  frog: 78% (195/248)
+Test Accuracy of horse: 77% (194/250)
+Test Accuracy of  ship: 82% (212/258)
+Test Accuracy of truck: 82% (218/265)
+
+Test Accuracy (Overall): 73% (1854/2512)
+Epoch: 0 	Training Loss: 1.527752 	Validation Loss: 0.311542
+Validation loss decreased (inf --> 0.311542).  Saving model ...
+Epoch: 1 	Training Loss: 1.267496 	Validation Loss: 0.271832
+Validation loss decreased (0.311542 --> 0.271832).  Saving model ...
+Epoch: 2 	Training Loss: 1.139870 	Validation Loss: 0.245627
+Validation loss decreased (0.271832 --> 0.245627).  Saving model ...
+Epoch: 3 	Training Loss: 1.028293 	Validation Loss: 0.214904
+Validation loss decreased (0.245627 --> 0.214904).  Saving model ...
+Epoch: 4 	Training Loss: 0.946904 	Validation Loss: 0.192865
+Validation loss decreased (0.214904 --> 0.192865).  Saving model ...
+Epoch: 5 	Training Loss: 0.882061 	Validation Loss: 0.186145
+Validation loss decreased (0.192865 --> 0.186145).  Saving model ...
+Epoch: 6 	Training Loss: 0.829927 	Validation Loss: 0.199172
+Epoch: 7 	Training Loss: 0.790862 	Validation Loss: 0.174043
+Validation loss decreased (0.186145 --> 0.174043).  Saving model ...
+Epoch: 8 	Training Loss: 0.751090 	Validation Loss: 0.157498
+Validation loss decreased (0.174043 --> 0.157498).  Saving model ...
+Epoch: 9 	Training Loss: 0.716662 	Validation Loss: 0.145333
+Validation loss decreased (0.157498 --> 0.145333).  Saving model ...
+Test Loss: 0.746114
+
+Test Accuracy of airplane: 70% (164/234)
+Test Accuracy of automobile: 86% (214/246)
+Test Accuracy of  bird: 65% (184/281)
+Test Accuracy of   cat: 56% (143/253)
+Test Accuracy of  deer: 63% (144/227)
+Test Accuracy of   dog: 52% (131/250)
+Test Accuracy of  frog: 83% (207/248)
+Test Accuracy of horse: 82% (205/250)
+Test Accuracy of  ship: 87% (226/258)
+Test Accuracy of truck: 81% (216/265)
+
+Test Accuracy (Overall): 73% (1834/2512)
+Epoch: 0 	Training Loss: 1.458839 	Validation Loss: 0.305917
+Validation loss decreased (inf --> 0.305917).  Saving model ...
+Epoch: 1 	Training Loss: 1.217985 	Validation Loss: 0.265347
+Validation loss decreased (0.305917 --> 0.265347).  Saving model ...
+Epoch: 2 	Training Loss: 1.095068 	Validation Loss: 0.242715
+Validation loss decreased (0.265347 --> 0.242715).  Saving model ...
+Epoch: 3 	Training Loss: 0.996227 	Validation Loss: 0.207975
+Validation loss decreased (0.242715 --> 0.207975).  Saving model ...
+Epoch: 4 	Training Loss: 0.919489 	Validation Loss: 0.206637
+Validation loss decreased (0.207975 --> 0.206637).  Saving model ...
+Epoch: 5 	Training Loss: 0.862364 	Validation Loss: 0.184047
+Validation loss decreased (0.206637 --> 0.184047).  Saving model ...
+Epoch: 6 	Training Loss: 0.810522 	Validation Loss: 0.176718
+Validation loss decreased (0.184047 --> 0.176718).  Saving model ...
+Epoch: 7 	Training Loss: 0.775212 	Validation Loss: 0.161283
+Validation loss decreased (0.176718 --> 0.161283).  Saving model ...
+Epoch: 8 	Training Loss: 0.736261 	Validation Loss: 0.171891
+Epoch: 9 	Training Loss: 0.708122 	Validation Loss: 0.142240
+Validation loss decreased (0.161283 --> 0.142240).  Saving model ...
+Test Loss: 0.733245
+
+Test Accuracy of airplane: 73% (172/234)
+Test Accuracy of automobile: 91% (226/246)
+Test Accuracy of  bird: 67% (190/281)
+Test Accuracy of   cat: 54% (137/253)
+Test Accuracy of  deer: 66% (151/227)
+Test Accuracy of   dog: 50% (127/250)
+Test Accuracy of  frog: 78% (195/248)
+Test Accuracy of horse: 80% (201/250)
+Test Accuracy of  ship: 87% (225/258)
+Test Accuracy of truck: 82% (218/265)
+
+Test Accuracy (Overall): 73% (1842/2512)
+Epoch: 0 	Training Loss: 1.438886 	Validation Loss: 0.290192
+Validation loss decreased (inf --> 0.290192).  Saving model ...
+Epoch: 1 	Training Loss: 1.191666 	Validation Loss: 0.264957
+Validation loss decreased (0.290192 --> 0.264957).  Saving model ...
+Epoch: 2 	Training Loss: 1.054435 	Validation Loss: 0.215563
+Validation loss decreased (0.264957 --> 0.215563).  Saving model ...
+Epoch: 3 	Training Loss: 0.959922 	Validation Loss: 0.197762
+Validation loss decreased (0.215563 --> 0.197762).  Saving model ...
+Epoch: 4 	Training Loss: 0.884444 	Validation Loss: 0.196836
+Validation loss decreased (0.197762 --> 0.196836).  Saving model ...
+Epoch: 5 	Training Loss: 0.829703 	Validation Loss: 0.171340
+Validation loss decreased (0.196836 --> 0.171340).  Saving model ...
+Epoch: 6 	Training Loss: 0.782893 	Validation Loss: 0.162973
+Validation loss decreased (0.171340 --> 0.162973).  Saving model ...
+Epoch: 7 	Training Loss: 0.746518 	Validation Loss: 0.157075
+Validation loss decreased (0.162973 --> 0.157075).  Saving model ...
+Epoch: 8 	Training Loss: 0.710019 	Validation Loss: 0.152199
+Validation loss decreased (0.157075 --> 0.152199).  Saving model ...
+Epoch: 9 	Training Loss: 0.678940 	Validation Loss: 0.140505
+Validation loss decreased (0.152199 --> 0.140505).  Saving model ...
+Test Loss: 0.726085
+
+Test Accuracy of airplane: 85% (200/234)
+Test Accuracy of automobile: 86% (214/246)
+Test Accuracy of  bird: 62% (176/281)
+Test Accuracy of   cat: 34% (88/253)
+Test Accuracy of  deer: 73% (166/227)
+Test Accuracy of   dog: 66% (166/250)
+Test Accuracy of  frog: 86% (214/248)
+Test Accuracy of horse: 81% (204/250)
+Test Accuracy of  ship: 82% (214/258)
+Test Accuracy of truck: 79% (210/265)
+
+Test Accuracy (Overall): 73% (1852/2512)
+Epoch: 0 	Training Loss: 1.485677 	Validation Loss: 0.322189
+Validation loss decreased (inf --> 0.322189).  Saving model ...
+Epoch: 1 	Training Loss: 1.266391 	Validation Loss: 0.272160
+Validation loss decreased (0.322189 --> 0.272160).  Saving model ...
+Epoch: 2 	Training Loss: 1.161065 	Validation Loss: 0.245532
+Validation loss decreased (0.272160 --> 0.245532).  Saving model ...
+Epoch: 3 	Training Loss: 1.070045 	Validation Loss: 0.227235
+Validation loss decreased (0.245532 --> 0.227235).  Saving model ...
+Epoch: 4 	Training Loss: 0.986846 	Validation Loss: 0.212428
+Validation loss decreased (0.227235 --> 0.212428).  Saving model ...
+Epoch: 5 	Training Loss: 0.923332 	Validation Loss: 0.192503
+Validation loss decreased (0.212428 --> 0.192503).  Saving model ...
+Epoch: 6 	Training Loss: 0.866153 	Validation Loss: 0.183056
+Validation loss decreased (0.192503 --> 0.183056).  Saving model ...
+Epoch: 7 	Training Loss: 0.824997 	Validation Loss: 0.175792
+Validation loss decreased (0.183056 --> 0.175792).  Saving model ...
+Epoch: 8 	Training Loss: 0.782252 	Validation Loss: 0.162425
+Validation loss decreased (0.175792 --> 0.162425).  Saving model ...
+Epoch: 9 	Training Loss: 0.752625 	Validation Loss: 0.150095
+Validation loss decreased (0.162425 --> 0.150095).  Saving model ...
+Test Loss: 0.760819
+
+Test Accuracy of airplane: 82% (194/234)
+Test Accuracy of automobile: 82% (204/246)
+Test Accuracy of  bird: 62% (175/281)
+Test Accuracy of   cat: 37% (95/253)
+Test Accuracy of  deer: 66% (151/227)
+Test Accuracy of   dog: 68% (171/250)
+Test Accuracy of  frog: 79% (197/248)
+Test Accuracy of horse: 77% (193/250)
+Test Accuracy of  ship: 84% (219/258)
+Test Accuracy of truck: 84% (223/265)
+
+Test Accuracy (Overall): 72% (1822/2512)
+Epoch: 0 	Training Loss: 1.493350 	Validation Loss: 0.341344
+Validation loss decreased (inf --> 0.341344).  Saving model ...
+Epoch: 1 	Training Loss: 1.273431 	Validation Loss: 0.291795
+Validation loss decreased (0.341344 --> 0.291795).  Saving model ...
+Epoch: 2 	Training Loss: 1.155784 	Validation Loss: 0.251261
+Validation loss decreased (0.291795 --> 0.251261).  Saving model ...
+Epoch: 3 	Training Loss: 1.060271 	Validation Loss: 0.240336
+Validation loss decreased (0.251261 --> 0.240336).  Saving model ...
+Epoch: 4 	Training Loss: 0.979365 	Validation Loss: 0.198021
+Validation loss decreased (0.240336 --> 0.198021).  Saving model ...
+Epoch: 5 	Training Loss: 0.903122 	Validation Loss: 0.191075
+Validation loss decreased (0.198021 --> 0.191075).  Saving model ...
+Epoch: 6 	Training Loss: 0.851074 	Validation Loss: 0.186556
+Validation loss decreased (0.191075 --> 0.186556).  Saving model ...
+Epoch: 7 	Training Loss: 0.809895 	Validation Loss: 0.168306
+Validation loss decreased (0.186556 --> 0.168306).  Saving model ...
+Epoch: 8 	Training Loss: 0.773167 	Validation Loss: 0.160923
+Validation loss decreased (0.168306 --> 0.160923).  Saving model ...
+Epoch: 9 	Training Loss: 0.740748 	Validation Loss: 0.154075
+Validation loss decreased (0.160923 --> 0.154075).  Saving model ...
+Test Loss: 0.780606
+
+Test Accuracy of airplane: 81% (191/234)
+Test Accuracy of automobile: 89% (220/246)
+Test Accuracy of  bird: 54% (154/281)
+Test Accuracy of   cat: 60% (153/253)
+Test Accuracy of  deer: 60% (138/227)
+Test Accuracy of   dog: 61% (153/250)
+Test Accuracy of  frog: 73% (183/248)
+Test Accuracy of horse: 75% (189/250)
+Test Accuracy of  ship: 79% (206/258)
+Test Accuracy of truck: 82% (219/265)
+
+Test Accuracy (Overall): 71% (1806/2512)
+Epoch: 0 	Training Loss: 1.458478 	Validation Loss: 0.304684
+Validation loss decreased (inf --> 0.304684).  Saving model ...
+Epoch: 1 	Training Loss: 1.220323 	Validation Loss: 0.256385
+Validation loss decreased (0.304684 --> 0.256385).  Saving model ...
+Epoch: 2 	Training Loss: 1.099281 	Validation Loss: 0.240115
+Validation loss decreased (0.256385 --> 0.240115).  Saving model ...
+Epoch: 3 	Training Loss: 0.988220 	Validation Loss: 0.206068
+Validation loss decreased (0.240115 --> 0.206068).  Saving model ...
+Epoch: 4 	Training Loss: 0.909057 	Validation Loss: 0.200694
+Validation loss decreased (0.206068 --> 0.200694).  Saving model ...
+Epoch: 5 	Training Loss: 0.848668 	Validation Loss: 0.180328
+Validation loss decreased (0.200694 --> 0.180328).  Saving model ...
+Epoch: 6 	Training Loss: 0.795178 	Validation Loss: 0.177760
+Validation loss decreased (0.180328 --> 0.177760).  Saving model ...
+Epoch: 7 	Training Loss: 0.749530 	Validation Loss: 0.154145
+Validation loss decreased (0.177760 --> 0.154145).  Saving model ...
+Epoch: 8 	Training Loss: 0.712144 	Validation Loss: 0.145840
+Validation loss decreased (0.154145 --> 0.145840).  Saving model ...
+Epoch: 9 	Training Loss: 0.670622 	Validation Loss: 0.145348
+Validation loss decreased (0.145840 --> 0.145348).  Saving model ...
+Test Loss: 0.747353
+
+Test Accuracy of airplane: 80% (188/234)
+Test Accuracy of automobile: 91% (226/246)
+Test Accuracy of  bird: 57% (162/281)
+Test Accuracy of   cat: 48% (122/253)
+Test Accuracy of  deer: 62% (141/227)
+Test Accuracy of   dog: 69% (173/250)
+Test Accuracy of  frog: 79% (196/248)
+Test Accuracy of horse: 89% (223/250)
+Test Accuracy of  ship: 85% (221/258)
+Test Accuracy of truck: 81% (216/265)
+
+Test Accuracy (Overall): 74% (1868/2512)
+Epoch: 0 	Training Loss: 1.510187 	Validation Loss: 0.307384
+Validation loss decreased (inf --> 0.307384).  Saving model ...
+Epoch: 1 	Training Loss: 1.300619 	Validation Loss: 0.281023
+Validation loss decreased (0.307384 --> 0.281023).  Saving model ...
+Epoch: 2 	Training Loss: 1.196189 	Validation Loss: 0.252782
+Validation loss decreased (0.281023 --> 0.252782).  Saving model ...
+Epoch: 3 	Training Loss: 1.120433 	Validation Loss: 0.240219
+Validation loss decreased (0.252782 --> 0.240219).  Saving model ...
+Epoch: 4 	Training Loss: 1.051765 	Validation Loss: 0.215788
+Validation loss decreased (0.240219 --> 0.215788).  Saving model ...
+Epoch: 5 	Training Loss: 0.986094 	Validation Loss: 0.202024
+Validation loss decreased (0.215788 --> 0.202024).  Saving model ...
+Epoch: 6 	Training Loss: 0.927044 	Validation Loss: 0.197032
+Validation loss decreased (0.202024 --> 0.197032).  Saving model ...
+Epoch: 7 	Training Loss: 0.878094 	Validation Loss: 0.178044
+Validation loss decreased (0.197032 --> 0.178044).  Saving model ...
+Epoch: 8 	Training Loss: 0.839891 	Validation Loss: 0.164291
+Validation loss decreased (0.178044 --> 0.164291).  Saving model ...
+Epoch: 9 	Training Loss: 0.803338 	Validation Loss: 0.164200
+Validation loss decreased (0.164291 --> 0.164200).  Saving model ...
+Test Loss: 0.842295
+
+Test Accuracy of airplane: 77% (181/234)
+Test Accuracy of automobile: 80% (198/246)
+Test Accuracy of  bird: 50% (141/281)
+Test Accuracy of   cat: 44% (112/253)
+Test Accuracy of  deer: 56% (129/227)
+Test Accuracy of   dog: 63% (158/250)
+Test Accuracy of  frog: 85% (211/248)
+Test Accuracy of horse: 76% (191/250)
+Test Accuracy of  ship: 89% (231/258)
+Test Accuracy of truck: 86% (228/265)
+
+Test Accuracy (Overall): 70% (1780/2512)
+Epoch: 0 	Training Loss: 1.494196 	Validation Loss: 0.318709
+Validation loss decreased (inf --> 0.318709).  Saving model ...
+Epoch: 1 	Training Loss: 1.267703 	Validation Loss: 0.272209
+Validation loss decreased (0.318709 --> 0.272209).  Saving model ...
+Epoch: 2 	Training Loss: 1.151092 	Validation Loss: 0.244630
+Validation loss decreased (0.272209 --> 0.244630).  Saving model ...
+Epoch: 3 	Training Loss: 1.060848 	Validation Loss: 0.223713
+Validation loss decreased (0.244630 --> 0.223713).  Saving model ...
+Epoch: 4 	Training Loss: 0.987102 	Validation Loss: 0.211048
+Validation loss decreased (0.223713 --> 0.211048).  Saving model ...
+Epoch: 5 	Training Loss: 0.925700 	Validation Loss: 0.187296
+Validation loss decreased (0.211048 --> 0.187296).  Saving model ...
+Epoch: 6 	Training Loss: 0.874533 	Validation Loss: 0.181202
+Validation loss decreased (0.187296 --> 0.181202).  Saving model ...
+Epoch: 7 	Training Loss: 0.828248 	Validation Loss: 0.165793
+Validation loss decreased (0.181202 --> 0.165793).  Saving model ...
+Epoch: 8 	Training Loss: 0.788837 	Validation Loss: 0.161365
+Validation loss decreased (0.165793 --> 0.161365).  Saving model ...
+Epoch: 9 	Training Loss: 0.759139 	Validation Loss: 0.160481
+Validation loss decreased (0.161365 --> 0.160481).  Saving model ...
+Test Loss: 0.817581
+
+Test Accuracy of airplane: 66% (155/234)
+Test Accuracy of automobile: 92% (227/246)
+Test Accuracy of  bird: 67% (190/281)
+Test Accuracy of   cat: 52% (134/253)
+Test Accuracy of  deer: 69% (157/227)
+Test Accuracy of   dog: 53% (134/250)
+Test Accuracy of  frog: 80% (199/248)
+Test Accuracy of horse: 72% (180/250)
+Test Accuracy of  ship: 90% (233/258)
+Test Accuracy of truck: 69% (184/265)
+
+Test Accuracy (Overall): 71% (1793/2512)
+Epoch: 0 	Training Loss: 1.492985 	Validation Loss: 0.313853
+Validation loss decreased (inf --> 0.313853).  Saving model ...
+Epoch: 1 	Training Loss: 1.257534 	Validation Loss: 0.275721
+Validation loss decreased (0.313853 --> 0.275721).  Saving model ...
+Epoch: 2 	Training Loss: 1.134005 	Validation Loss: 0.256140
+Validation loss decreased (0.275721 --> 0.256140).  Saving model ...
+Epoch: 3 	Training Loss: 1.028852 	Validation Loss: 0.212909
+Validation loss decreased (0.256140 --> 0.212909).  Saving model ...
+Epoch: 4 	Training Loss: 0.943515 	Validation Loss: 0.195415
+Validation loss decreased (0.212909 --> 0.195415).  Saving model ...
+Epoch: 5 	Training Loss: 0.879791 	Validation Loss: 0.184793
+Validation loss decreased (0.195415 --> 0.184793).  Saving model ...
+Epoch: 6 	Training Loss: 0.821437 	Validation Loss: 0.172549
+Validation loss decreased (0.184793 --> 0.172549).  Saving model ...
+Epoch: 7 	Training Loss: 0.785167 	Validation Loss: 0.166654
+Validation loss decreased (0.172549 --> 0.166654).  Saving model ...
+Epoch: 8 	Training Loss: 0.745528 	Validation Loss: 0.162484
+Validation loss decreased (0.166654 --> 0.162484).  Saving model ...
+Epoch: 9 	Training Loss: 0.708145 	Validation Loss: 0.150114
+Validation loss decreased (0.162484 --> 0.150114).  Saving model ...
+Test Loss: 0.759142
+
+Test Accuracy of airplane: 79% (186/234)
+Test Accuracy of automobile: 92% (227/246)
+Test Accuracy of  bird: 47% (133/281)
+Test Accuracy of   cat: 49% (125/253)
+Test Accuracy of  deer: 83% (189/227)
+Test Accuracy of   dog: 63% (159/250)
+Test Accuracy of  frog: 73% (183/248)
+Test Accuracy of horse: 68% (170/250)
+Test Accuracy of  ship: 89% (232/258)
+Test Accuracy of truck: 84% (223/265)
+
+Test Accuracy (Overall): 72% (1827/2512)
+Epoch: 0 	Training Loss: 1.532183 	Validation Loss: 0.305838
+Validation loss decreased (inf --> 0.305838).  Saving model ...
+Epoch: 1 	Training Loss: 1.296871 	Validation Loss: 0.270658
+Validation loss decreased (0.305838 --> 0.270658).  Saving model ...
+Epoch: 2 	Training Loss: 1.185548 	Validation Loss: 0.243688
+Validation loss decreased (0.270658 --> 0.243688).  Saving model ...
+Epoch: 3 	Training Loss: 1.099862 	Validation Loss: 0.231282
+Validation loss decreased (0.243688 --> 0.231282).  Saving model ...
+Epoch: 4 	Training Loss: 1.042327 	Validation Loss: 0.207784
+Validation loss decreased (0.231282 --> 0.207784).  Saving model ...
+Epoch: 5 	Training Loss: 0.984931 	Validation Loss: 0.219024
+Epoch: 6 	Training Loss: 0.949403 	Validation Loss: 0.190750
+Validation loss decreased (0.207784 --> 0.190750).  Saving model ...
+Epoch: 7 	Training Loss: 0.905645 	Validation Loss: 0.186915
+Validation loss decreased (0.190750 --> 0.186915).  Saving model ...
+Epoch: 8 	Training Loss: 0.872945 	Validation Loss: 0.200671
+Epoch: 9 	Training Loss: 0.843234 	Validation Loss: 0.166308
+Validation loss decreased (0.186915 --> 0.166308).  Saving model ...
+Test Loss: 0.852786
+
+Test Accuracy of airplane: 73% (171/234)
+Test Accuracy of automobile: 93% (229/246)
+Test Accuracy of  bird: 48% (136/281)
+Test Accuracy of   cat: 38% (98/253)
+Test Accuracy of  deer: 65% (148/227)
+Test Accuracy of   dog: 59% (149/250)
+Test Accuracy of  frog: 84% (210/248)
+Test Accuracy of horse: 70% (177/250)
+Test Accuracy of  ship: 84% (217/258)
+Test Accuracy of truck: 74% (198/265)
+
+Test Accuracy (Overall): 68% (1733/2512)
+Epoch: 0 	Training Loss: 1.509095 	Validation Loss: 0.314307
+Validation loss decreased (inf --> 0.314307).  Saving model ...
+Epoch: 1 	Training Loss: 1.284576 	Validation Loss: 0.279580
+Validation loss decreased (0.314307 --> 0.279580).  Saving model ...
+Epoch: 2 	Training Loss: 1.176017 	Validation Loss: 0.243412
+Validation loss decreased (0.279580 --> 0.243412).  Saving model ...
+Epoch: 3 	Training Loss: 1.084732 	Validation Loss: 0.231458
+Validation loss decreased (0.243412 --> 0.231458).  Saving model ...
+Epoch: 4 	Training Loss: 1.010279 	Validation Loss: 0.211349
+Validation loss decreased (0.231458 --> 0.211349).  Saving model ...
+Epoch: 5 	Training Loss: 0.955628 	Validation Loss: 0.198865
+Validation loss decreased (0.211349 --> 0.198865).  Saving model ...
+Epoch: 6 	Training Loss: 0.911785 	Validation Loss: 0.188912
+Validation loss decreased (0.198865 --> 0.188912).  Saving model ...
+Epoch: 7 	Training Loss: 0.875321 	Validation Loss: 0.172388
+Validation loss decreased (0.188912 --> 0.172388).  Saving model ...
+Epoch: 8 	Training Loss: 0.839885 	Validation Loss: 0.175503
+Epoch: 9 	Training Loss: 0.809051 	Validation Loss: 0.167757
+Validation loss decreased (0.172388 --> 0.167757).  Saving model ...
+Test Loss: 0.851542
+
+Test Accuracy of airplane: 74% (174/234)
+Test Accuracy of automobile: 85% (211/246)
+Test Accuracy of  bird: 61% (173/281)
+Test Accuracy of   cat: 28% (73/253)
+Test Accuracy of  deer: 68% (156/227)
+Test Accuracy of   dog: 54% (135/250)
+Test Accuracy of  frog: 86% (214/248)
+Test Accuracy of horse: 72% (181/250)
+Test Accuracy of  ship: 83% (216/258)
+Test Accuracy of truck: 80% (213/265)
+
+Test Accuracy (Overall): 69% (1746/2512)
+Epoch: 0 	Training Loss: 1.540981 	Validation Loss: 0.333405
+Validation loss decreased (inf --> 0.333405).  Saving model ...
+Epoch: 1 	Training Loss: 1.317000 	Validation Loss: 0.292573
+Validation loss decreased (0.333405 --> 0.292573).  Saving model ...
+Epoch: 2 	Training Loss: 1.214775 	Validation Loss: 0.263136
+Validation loss decreased (0.292573 --> 0.263136).  Saving model ...
+Epoch: 3 	Training Loss: 1.124475 	Validation Loss: 0.252243
+Validation loss decreased (0.263136 --> 0.252243).  Saving model ...
+Epoch: 4 	Training Loss: 1.040776 	Validation Loss: 0.216016
+Validation loss decreased (0.252243 --> 0.216016).  Saving model ...
+Epoch: 5 	Training Loss: 0.962495 	Validation Loss: 0.207444
+Validation loss decreased (0.216016 --> 0.207444).  Saving model ...
+Epoch: 6 	Training Loss: 0.894335 	Validation Loss: 0.188782
+Validation loss decreased (0.207444 --> 0.188782).  Saving model ...
+Epoch: 7 	Training Loss: 0.844784 	Validation Loss: 0.180516
+Validation loss decreased (0.188782 --> 0.180516).  Saving model ...
+Epoch: 8 	Training Loss: 0.798308 	Validation Loss: 0.171027
+Validation loss decreased (0.180516 --> 0.171027).  Saving model ...
+Epoch: 9 	Training Loss: 0.760400 	Validation Loss: 0.152761
+Validation loss decreased (0.171027 --> 0.152761).  Saving model ...
+Test Loss: 0.781886
+
+Test Accuracy of airplane: 78% (183/234)
+Test Accuracy of automobile: 89% (221/246)
+Test Accuracy of  bird: 64% (180/281)
+Test Accuracy of   cat: 43% (109/253)
+Test Accuracy of  deer: 59% (135/227)
+Test Accuracy of   dog: 64% (162/250)
+Test Accuracy of  frog: 86% (214/248)
+Test Accuracy of horse: 73% (183/250)
+Test Accuracy of  ship: 88% (228/258)
+Test Accuracy of truck: 77% (206/265)
+
+Test Accuracy (Overall): 72% (1821/2512)
+Epoch: 0 	Training Loss: 1.482004 	Validation Loss: 0.322987
+Validation loss decreased (inf --> 0.322987).  Saving model ...
+Epoch: 1 	Training Loss: 1.238036 	Validation Loss: 0.275215
+Validation loss decreased (0.322987 --> 0.275215).  Saving model ...
+Epoch: 2 	Training Loss: 1.120674 	Validation Loss: 0.251142
+Validation loss decreased (0.275215 --> 0.251142).  Saving model ...
+Epoch: 3 	Training Loss: 1.020182 	Validation Loss: 0.211797
+Validation loss decreased (0.251142 --> 0.211797).  Saving model ...
+Epoch: 4 	Training Loss: 0.918557 	Validation Loss: 0.188166
+Validation loss decreased (0.211797 --> 0.188166).  Saving model ...
+Epoch: 5 	Training Loss: 0.843769 	Validation Loss: 0.173296
+Validation loss decreased (0.188166 --> 0.173296).  Saving model ...
+Epoch: 6 	Training Loss: 0.782218 	Validation Loss: 0.176299
+Epoch: 7 	Training Loss: 0.729902 	Validation Loss: 0.160085
+Validation loss decreased (0.173296 --> 0.160085).  Saving model ...
+Epoch: 8 	Training Loss: 0.690007 	Validation Loss: 0.136835
+Validation loss decreased (0.160085 --> 0.136835).  Saving model ...
+Epoch: 9 	Training Loss: 0.658256 	Validation Loss: 0.134380
+Validation loss decreased (0.136835 --> 0.134380).  Saving model ...
+Test Loss: 0.691226
+
+Test Accuracy of airplane: 79% (186/234)
+Test Accuracy of automobile: 89% (220/246)
+Test Accuracy of  bird: 66% (186/281)
+Test Accuracy of   cat: 43% (111/253)
+Test Accuracy of  deer: 74% (168/227)
+Test Accuracy of   dog: 68% (170/250)
+Test Accuracy of  frog: 86% (215/248)
+Test Accuracy of horse: 83% (209/250)
+Test Accuracy of  ship: 83% (215/258)
+Test Accuracy of truck: 89% (236/265)
+
+Test Accuracy (Overall): 76% (1916/2512)
+Generation Number # 0
+
+
+Epoch: 0 	Training Loss: 1.521181 	Validation Loss: 0.317862
+Validation loss decreased (inf --> 0.317862).  Saving model ...
+Epoch: 1 	Training Loss: 1.311049 	Validation Loss: 0.281717
+Validation loss decreased (0.317862 --> 0.281717).  Saving model ...
+Epoch: 2 	Training Loss: 1.196547 	Validation Loss: 0.262534
+Validation loss decreased (0.281717 --> 0.262534).  Saving model ...
+Epoch: 3 	Training Loss: 1.112388 	Validation Loss: 0.240657
+Validation loss decreased (0.262534 --> 0.240657).  Saving model ...
+Epoch: 4 	Training Loss: 1.035333 	Validation Loss: 0.217274
+Validation loss decreased (0.240657 --> 0.217274).  Saving model ...
+Epoch: 5 	Training Loss: 0.965275 	Validation Loss: 0.208510
+Validation loss decreased (0.217274 --> 0.208510).  Saving model ...
+Epoch: 6 	Training Loss: 0.910605 	Validation Loss: 0.188734
+Validation loss decreased (0.208510 --> 0.188734).  Saving model ...
+Epoch: 7 	Training Loss: 0.867365 	Validation Loss: 0.183193
+Validation loss decreased (0.188734 --> 0.183193).  Saving model ...
+Epoch: 8 	Training Loss: 0.830977 	Validation Loss: 0.169892
+Validation loss decreased (0.183193 --> 0.169892).  Saving model ...
+Epoch: 9 	Training Loss: 0.792840 	Validation Loss: 0.168025
+Validation loss decreased (0.169892 --> 0.168025).  Saving model ...
+Test Loss: 0.874469
+
+Test Accuracy of airplane: 75% (176/234)
+Test Accuracy of automobile: 97% (239/246)
+Test Accuracy of  bird: 65% (185/281)
+Test Accuracy of   cat: 37% (95/253)
+Test Accuracy of  deer: 68% (155/227)
+Test Accuracy of   dog: 44% (112/250)
+Test Accuracy of  frog: 76% (189/248)
+Test Accuracy of horse: 79% (198/250)
+Test Accuracy of  ship: 79% (205/258)
+Test Accuracy of truck: 69% (183/265)
+
+Test Accuracy (Overall): 69% (1737/2512)
+Epoch: 0 	Training Loss: 1.501272 	Validation Loss: 0.309831
+Validation loss decreased (inf --> 0.309831).  Saving model ...
+Epoch: 1 	Training Loss: 1.251417 	Validation Loss: 0.269373
+Validation loss decreased (0.309831 --> 0.269373).  Saving model ...
+Epoch: 2 	Training Loss: 1.132650 	Validation Loss: 0.251978
+Validation loss decreased (0.269373 --> 0.251978).  Saving model ...
+Epoch: 3 	Training Loss: 1.031375 	Validation Loss: 0.229238
+Validation loss decreased (0.251978 --> 0.229238).  Saving model ...
+Epoch: 4 	Training Loss: 0.946620 	Validation Loss: 0.196832
+Validation loss decreased (0.229238 --> 0.196832).  Saving model ...
+Epoch: 5 	Training Loss: 0.889753 	Validation Loss: 0.186363
+Validation loss decreased (0.196832 --> 0.186363).  Saving model ...
+Epoch: 6 	Training Loss: 0.843333 	Validation Loss: 0.173732
+Validation loss decreased (0.186363 --> 0.173732).  Saving model ...
+Epoch: 7 	Training Loss: 0.808327 	Validation Loss: 0.172995
+Validation loss decreased (0.173732 --> 0.172995).  Saving model ...
+Epoch: 8 	Training Loss: 0.765688 	Validation Loss: 0.157243
+Validation loss decreased (0.172995 --> 0.157243).  Saving model ...
+Epoch: 9 	Training Loss: 0.737540 	Validation Loss: 0.149488
+Validation loss decreased (0.157243 --> 0.149488).  Saving model ...
+Test Loss: 0.769881
+
+Test Accuracy of airplane: 66% (156/234)
+Test Accuracy of automobile: 91% (225/246)
+Test Accuracy of  bird: 56% (159/281)
+Test Accuracy of   cat: 47% (121/253)
+Test Accuracy of  deer: 62% (142/227)
+Test Accuracy of   dog: 72% (182/250)
+Test Accuracy of  frog: 76% (189/248)
+Test Accuracy of horse: 77% (194/250)
+Test Accuracy of  ship: 87% (225/258)
+Test Accuracy of truck: 84% (225/265)
+
+Test Accuracy (Overall): 72% (1818/2512)
+Traceback (most recent call last):
+  File "main.py", line 18, in <module>
+    ga.evolve()
+  File "/home2020/home/uha/mjali/NAS-FRAMEWORK/GA/ga.py", line 83, in evolve
+    fitn_off = self.offsprings_fitness[min_list_par]
+IndexError: list index out of range

@@ -1,0 +1,3 @@
+Each Folder Contains 2D and 3D NAS algorithms.
+Each folder contains main_args.py file which needs to be run.
+In the main_args.py file, the arguments of the proposed approach are given which can be modified and either passed by arguments or change in the main.py file.

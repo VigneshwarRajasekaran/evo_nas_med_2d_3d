@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "/home2020/home/uha/mjali/NAS-FRAMEWORK/GA/main.py", line 14, in <module>
+    from ga import GA
+  File "/home2020/home/uha/mjali/NAS-FRAMEWORK/GA/ga.py", line 24, in <module>
+    from optimizer import Optimizer
+  File "/home2020/home/uha/mjali/NAS-FRAMEWORK/GA/optimizer.py", line 8, in <module>
+    from population import Population
+  File "/home2020/home/uha/mjali/NAS-FRAMEWORK/GA/population.py", line 18, in <module>
+    import lhsmdu
+  File "/home2020/home/uha/mjali/.conda/envs/gaunet/lib/python3.10/site-packages/lhsmdu/__init__.py", line 13, in <module>
+    from scipy.stats import rv_continuous, rv_discrete
+  File "/home2020/home/uha/mjali/.conda/envs/gaunet/lib/python3.10/site-packages/scipy/stats/__init__.py", line 441, in <module>
+    from .stats import *
+  File "/home2020/home/uha/mjali/.conda/envs/gaunet/lib/python3.10/site-packages/scipy/stats/stats.py", line 37, in <module>
+    from scipy.spatial.distance import cdist
+  File "/home2020/home/uha/mjali/.conda/envs/gaunet/lib/python3.10/site-packages/scipy/spatial/__init__.py", line 96, in <module>
+    from .kdtree import *
+  File "/home2020/home/uha/mjali/.conda/envs/gaunet/lib/python3.10/site-packages/scipy/spatial/kdtree.py", line 5, in <module>
+    from .ckdtree import cKDTree, cKDTreeNode
+ImportError: /usr/local/Anaconda/Anaconda3-2019.07/lib/libstdc++.so.6: version `GLIBCXX_3.4.29' not found (required by /home2020/home/uha/mjali/.conda/envs/gaunet/lib/python3.10/site-packages/scipy/spatial/ckdtree.cpython-310-x86_64-linux-gnu.so)
