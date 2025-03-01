@@ -22,3 +22,40 @@ BibTex @inproceedings{ali2024evolutionary,
 
  - [MedMNIST dataset] (https://medmnist.com/)
  - [BreakHIS dataset] (https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/)
+
+ # Repository Structure
+
+   ├── Evolutionary_Zero_Cost_Medical_Classification2D
+│   ├── Surrogate.py            # Surrogate modeling for NAS evaluation
+│   ├── attentions.py           # Attention mechanisms used in architectures
+│   ├── augment.py              # Data augmentation strategies
+│   ├── augmentations.py        # Additional augmentation techniques
+│   ├── auto_augment.py         # Automated data augmentation
+│   ├── autoaugment.py          # Alternative auto-augmentation methods
+│   ├── dataset.py              # Dataset handling and preprocessing
+│   ├── evaluate.py             # Model evaluation scripts
+│   ├── main_args.py            # Main script to run NAS experiments
+│   ├── model.py                # Defines neural network architectures
+│   ├── trainer.py              # Training pipeline for NAS models
+│   ├── utils.py                # Utility functions for NAS execution
+│   ├── search.py               # Evolutionary NAS search implementation
+│   ├── visualize_results.py    # Visualization of NAS results
+│   ├── logs/                   # Directory storing training logs
+│   ├── results/                # Directory for storing model results
+│
+├── Evolutionary_Zero_Cost_Medical_Classification3D
+│   ├── Surrogate.py            # Surrogate model for 3D NAS
+│   ├── dataset.py              # 3D medical dataset preprocessing
+│   ├── evaluate.py             # Evaluation scripts for 3D models
+│   ├── main_args.py            # Script for running 3D NAS
+│   ├── model.py                # 3D neural network architectures
+│   ├── trainer.py              # Training pipeline for 3D NAS models
+│   ├── search.py               # Evolutionary NAS implementation for 3D
+│   ├── visualize_results.py    # Result visualization for 3D models
+│   ├── logs/                   # Logs generated during 3D training
+│   ├── results/                # Directory for 3D NAS model results
+│
+├── How to Run.txt              # Instructions on running the experiments
+├── README.md                   # This documentation file
+├── requirements.txt            # List of required dependencies
+├── LICENSE                     # License file for the project
