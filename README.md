@@ -26,7 +26,6 @@
 
 ```
 Evolutionary_Zero_Cost_Medical_Classification2D/
-│   ├── Surrogate.py            # Surrogate modeling for NAS evaluation
 │   ├── attentions.py           # Attention mechanisms used in architectures
 │   ├── augment.py              # Data augmentation strategies
 │   ├── augmentations.py        # Additional augmentation techniques
@@ -44,7 +43,6 @@ Evolutionary_Zero_Cost_Medical_Classification2D/
 │   ├── results/                # Directory for storing model results
 │
 Evolutionary_Zero_Cost_Medical_Classification3D/
-│   ├── Surrogate.py            # Surrogate model for 3D NAS
 │   ├── dataset.py              # 3D medical dataset preprocessing
 │   ├── evaluate.py             # Evaluation scripts for 3D models
 │   ├── main_args.py            # Script for running 3D NAS
