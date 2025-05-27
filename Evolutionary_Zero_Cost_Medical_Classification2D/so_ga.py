@@ -95,7 +95,7 @@ class SOGA(Optimizer):
         #                                     self.dropout_rate, 'FP32', False)
 
         loss = self.evaluator.evaluate_zero_cost(decoded_individual, self.epochs,n_classes)
-        return  loss['synflow']
+        return  loss['zico']
     def evaluate_ensemble_predictions(self,ensemble,medmnist_dataset):
 
         return None

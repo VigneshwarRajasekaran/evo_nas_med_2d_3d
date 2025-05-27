@@ -3,7 +3,6 @@ import os.path
 
 import torchattacks
 from acsconv.converters import ACSConverter, Conv2_5dConverter, Conv3dConverter
-from art.estimators.classification import PyTorchClassifier
 from medmnist import INFO
 from torch.optim.lr_scheduler import ReduceLROnPlateau, StepLR, CosineAnnealingLR
 
@@ -253,7 +252,7 @@ class Evaluate:
                                             (dataload, 1, n_classes),
                                             self.device,
                                             loss_fn = criterion,
-                                            measure_names={'grad_norm','snip','synflow','plain'}
+                                            measure_names={'jacobian_cov','zico'}
                                             )
         else:
             measures = predictive.find_measures(model,self.medmnist_dataset,
@@ -261,7 +260,7 @@ class Evaluate:
                                             (dataload, 1, n_classes),
                                             self.device,
                                             loss_fn = criterion,
-                                            measure_names={'grad_norm','snip','synflow','plain'}
+                                            measure_names={'jacobian_cov','zico'}
                                             )
         #print(measures)
 

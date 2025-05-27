@@ -112,7 +112,7 @@ if __name__ == '__main__':
   start_time = time.time()
 
   # Running the algorithm
-  ga.mealypy_evolve('de',15,10,medmnist_dataset)
+  ga.mealypy_evolve('lshade',15,10,medmnist_dataset)
   # Record the end time
   end_time = time.time()
 

@@ -270,13 +270,26 @@ def drop_path_fp16(x, drop_prob):
     return x
 
 
-def drop_path(x, drop_prob):
-    if drop_prob > 0.:
-        keep_prob = 1. - drop_prob
-        mask = Variable(torch.cuda.FloatTensor(x.size(0), 1, 1, 1).bernoulli_(keep_prob))
-        x.div_(keep_prob)
-        x.mul_(mask)
-    return x
+import torch
+
+def drop_path(x, drop_prob: float, training: bool = False):
+    """
+    Drop paths (Stochastic Depth) per sample (when applied in main path of residual blocks).
+    If not in training mode or drop_prob == 0, returns x unchanged.
+    """
+    if drop_prob == 0. or not training:
+        return x
+
+    keep_prob = 1.0 - drop_prob
+    # shape = [batch_size, 1, 1, ..., 1]
+    shape = (x.shape[0],) + (1,) * (x.ndim - 1)
+
+    # generate binary mask
+    random_tensor = keep_prob + torch.rand(shape, dtype=x.dtype, device=x.device)
+    binary_mask = torch.floor(random_tensor)
+
+    # scale the surviving paths, apply mask
+    return x.div(keep_prob) * binary_mask
 
 
 def create_exp_dir(path, scripts_to_save=None):

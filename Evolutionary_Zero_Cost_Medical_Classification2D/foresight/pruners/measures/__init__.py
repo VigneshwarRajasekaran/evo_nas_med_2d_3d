@@ -48,13 +48,16 @@ def calc_measure(name,medmnist_dataset, net, device, *args, **kwargs):
 
 
 def load_all():
-    from . import grad_norm
-    from . import snip
-    from . import grasp
-    from . import fisher
-    from . import jacob_cov
-    from . import plain
-    from . import synflow
+    # from . import grad_norm
+    # from . import snip
+    # from . import grasp
+    # from . import fisher
+    # from . import jacob_cov
+    # from . import plain
+    # from . import synflow
+    from . import jacobian_cov
+    from . import zico
+
 
 
 # TODO: should we do that by default?

@@ -696,7 +696,7 @@ class L_SHADE(Optimizer):
             list_cr_new[idx] = cr
             list_f_new[idx] = f
             p = np.random.uniform(0.15, 0.2)
-            top = int(self.dyn_pop_size * p)
+            top = max(1, int(self.pop_size * 0.1))  # ensures at least 1
             x_best = pop_sorted[np.random.randint(0, top)]
             x_r1 = self.pop[np.random.choice(list(set(range(0, self.dyn_pop_size)) - {idx}))]
             new_pop = self.pop + self.dyn_pop_archive

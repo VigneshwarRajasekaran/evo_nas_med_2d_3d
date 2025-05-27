@@ -112,6 +112,6 @@ def find_measures(net_orig,                  # neural network
         if k=='jacob_cov':
             measures[k] = v
         else:
-            measures[k] = sum_arr(v)
+            measures[k] = v
 
     return measures
